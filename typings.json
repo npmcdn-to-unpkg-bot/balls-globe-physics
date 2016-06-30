@@ -1,0 +1,6 @@
+{
+  "globalDependencies": {
+    "matter-js": "registry:dt/matter-js#0.9.1+20160317120654",
+    "pixi.js": "registry:dt/pixi.js#3.0.9+20160613144105"
+  }
+}

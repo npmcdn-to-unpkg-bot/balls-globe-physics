@@ -1,0 +1,18 @@
+{
+  "name": "balls-globe-physics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "jspm": {
+    "dependencies": {
+      "matter-js": "npm:matter-js@^0.10.0",
+      "pixi.js": "npm:pixi.js@^3.0.11"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+module.exports = require("npm:earcut@2.1.1/src/earcut.js");

@@ -1,0 +1,1 @@
+module.exports = require("npm:matter-js@0.10.0/src/module/main.js");

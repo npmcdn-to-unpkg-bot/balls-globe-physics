@@ -1,0 +1,1 @@
+module.exports = require("npm:pixi.js@3.0.11/src/index.js");
